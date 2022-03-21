@@ -1,0 +1,10 @@
+.add-attribute {
+    margin-top:5px;
+     display:flex;
+}
+.btn-delete {
+    background:red !important;
+    color:white;
+    border-radius: 2px;
+    margin: 3px 0px 3px 0px
+}
